@@ -1,5 +1,4 @@
-# mulcia-logica-computacion-ia
-Proyectos Tecnológicos Mediante Metodología Ágil. Gestión de Riesgos y Complejidad
+# Proyectos Tecnológicos Mediante Metodología Ágil. Gestión de Riesgos y Complejidad
 ---
 
 # **Guía de Usuario**
