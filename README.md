@@ -11,11 +11,11 @@ Autor: Leandro Leonardo
 
 Resumen
 
-Este Trabajo de Fin de Máster examina la gestión de riesgos en proyectos tecnológicos —como los de investigación multidisciplinar, sistemas de información e inteligencia artificial— mediante el uso de metodologías ágiles en entornos VUCA (Volatilidad, Incertidumbre, Complejidad y Ambigüedad). El estudio se enfoca en un modelo simplificado de inferencia bayesiana, implementado en Python, que facilita la predicción de riesgos complejos y la selección adaptativa de metodologías ágiles. El principal objetivo es evaluar cómo la inferencia bayesiana puede predecir y gestionar riesgos complejos a lo largo del ciclo de vida del proyecto, permitiendo seleccionar la metodología ágil más adecuada en cada fase. Esta aproximación permite una aplicación práctica, maximizando la adaptación a los cambios y reduciendo el consumo de recursos. Los resultados muestran que este enfoque optimiza la toma de decisiones en entornos tecnológicos, mejorando el éxito y control de los proyectos.
+Este estudio investiga el uso combinado de Redes Bayesianas (BN) y modelos de aprendizaje automático (ML), como Naïve Bayes y Random Forest, para gestionar riesgos y complejidad en proyectos ágiles del sector público dominicano. Se realizó una revisión sistemática de literatura para identificar trece variables clave relacionadas con la gestión efectiva del riesgo y la complejidad. Con base en estas variables, se generó un dataset sintético que permitió evaluar diversos modelos predictivos. Los resultados revelan que la combinación BN+ML proporciona precisión predictiva y alta interpretabilidad causal. El estudio concluye destacando la importancia del enfoque híbrido para anticipar y gestionar riesgos en proyectos ágiles. Se presentan recomendaciones prácticas dirigidas a líderes del sector público, destacando la necesidad de crear un repositorio nacional de datos abiertos y programas de formación en análisis probabilístico.
 
 ---
 
-Palabras clave: Gestión de riesgos, Metodologías ágiles, Entornos VUCA, Inferencia bayesiana, Proyectos tecnológicos, Adaptación dinámica.
+Palabras clave: Gestión de riesgos, Metodologías ágiles, Entornos VUCA, Redes Bayesianas, República Dominicana.
 
 ---
 
@@ -23,10 +23,10 @@ English version_
 
 Abstract
 
-This Master's Thesis examines risk management in technological projects through agile methodologies in VUCA (Volatility, Uncertainty, Complexity, Ambiguity) environments. The study focuses on a simplified Bayesian inference model implemented in Python, enabling efficient risk prediction and adaptive agile methodology selection. This approach facilitates practical application, maximizing adaptability to changes while reducing resource consumption. Results show that this approach enhances decision-making in technological environments, improving project success and control.
+This research examines the combined use of Bayesian Networks (BN) and machine learning (ML) models, particularly Naïve Bayes and Random Forest, to manage risk and complexity in agile technology projects in the Dominican public sector. A systematic literature review was conducted, identifying thirteen critical variables related to effective risk and complexity management. A synthetic dataset based on these variables was created to evaluate various predictive models. Findings demonstrate that the BN+ML hybrid approach offers both high predictive accuracy and strong causal interpretability. The study concludes by emphasizing the effectiveness of this hybrid model for anticipating and managing risk in agile projects. Practical recommendations for public sector leaders are provided, highlighting the necessity of establishing a national open data repository and training programs in probabilistic analysis.
 
 ---
 
-Keywords: Risk management, Agile methodologies, VUCA environments, Bayesian inference, Technological projects, Dynamic adaptation.
+Keywords: Risk Management, Agile Methodologies, VUCA Environments, Bayesian Networks, Dominican Republic.
 
 ---
