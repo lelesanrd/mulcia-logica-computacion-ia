@@ -3,7 +3,7 @@
 
 # **Guía de Usuario**
 
-**TFM 2024: Proyectos Tecnológicos Mediante Metodología Ágil. Gestión de Riesgos y Complejidad**
+**TFM 2025: Proyectos Tecnológicos Mediante Metodología Ágil. Gestión de Riesgos y Complejidad. Caso República Dominicana.**
 
 Autor: Leandro Leonardo
 
